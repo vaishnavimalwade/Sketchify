@@ -114,7 +114,7 @@ The objective of Sketchify is to demonstrate how computer vision and digital ima
 
 B.Tech – Computer Science and Engineering
 
-GitHub: https://github.com/heatwaves0406
+GitHub: https://github.com/vaishnavimalwade
 
 ---
 
